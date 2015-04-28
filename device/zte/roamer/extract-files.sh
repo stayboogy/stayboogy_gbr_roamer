@@ -140,42 +140,6 @@ adb pull /system/lib/libwms.so
 adb pull /system/lib/libwmsts.so
 adb pull /system/lib/libWVphoneAPI.so
 
-# omx and opencore libs
-adb pull /system/lib/libomx_aacdec_sharedlibrary.so
-adb pull /system/lib/libOmxAacDec.so
-adb pull /system/lib/libOmxAacEnc.so
-adb pull /system/lib/libOmxAdpcmDec.so
-adb pull /system/lib/libomx_amrdec_sharedlibrary.so
-adb pull /system/lib/libOmxAmrDec.so
-adb pull /system/lib/libomx_amrenc_sharedlibrary.so
-adb pull /system/lib/libOmxAmrEnc.so
-adb pull /system/lib/libOmxAmrRtpDec.so
-adb pull /system/lib/libOmxAmrwbDec.so
-adb pull /system/lib/libomx_avcdec_sharedlibrary.so
-adb pull /system/lib/libOmxCore.so
-adb pull /system/lib/libOmxEvrcDec.so
-adb pull /system/lib/libOmxEvrcEnc.so
-adb pull /system/lib/libOmxH264Dec.so
-adb pull /system/lib/libomx_m4vdec_sharedlibrary.so
-adb pull /system/lib/libomx_mp3dec_sharedlibrary.so
-adb pull /system/lib/libOmxMp3Dec.so
-adb pull /system/lib/libOmxMpeg4Dec.so
-adb pull /system/lib/libOmxQcelp13Enc.so
-adb pull /system/lib/libOmxQcelpDec.so
-adb pull /system/lib/libomx_sharedlibrary.so
-adb pull /system/lib/libOmxVidEnc.so
-adb pull /system/lib/libOmxWmaDec.so
-adb pull /system/lib/libOmxWmvDec.so
-adb pull /system/lib/libopencore_author.so
-adb pull /system/lib/libopencore_common.so
-adb pull /system/lib/libopencore_downloadreg.so
-adb pull /system/lib/libopencore_download.so
-adb pull /system/lib/libopencorehw.so
-adb pull /system/lib/libopencore_mp4localreg.so
-adb pull /system/lib/libopencore_mp4local.so
-adb pull /system/lib/libopencore_net_support.so
-adb pull /system/lib/libopencore_player.so
-
 # omx and opencore
 adb pull /system/lib/libomx_aacdec_sharedlibrary.so
 adb pull /system/lib/libOmxAacDec.so
